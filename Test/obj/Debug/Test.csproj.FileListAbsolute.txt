@@ -1,0 +1,11 @@
+F:\Code\ChessJudger\Test\bin\Debug\Test.dll
+F:\Code\ChessJudger\Test\bin\Debug\Test.pdb
+F:\Code\ChessJudger\Test\bin\Debug\nunit.framework.dll
+F:\Code\ChessJudger\Test\bin\Debug\nunit.framework.xml
+F:\Code\ChessJudger\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Code\ChessJudger\Test\obj\Debug\Test.dll
+F:\Code\ChessJudger\Test\obj\Debug\Test.pdb
+F:\Code\ChessJudger\Test\bin\Debug\ChessJudger.dll
+F:\Code\ChessJudger\Test\bin\Debug\Newtonsoft.Json.dll
+F:\Code\ChessJudger\Test\bin\Debug\ChessJudger.pdb
+F:\Code\ChessJudger\Test\bin\Debug\Newtonsoft.Json.xml

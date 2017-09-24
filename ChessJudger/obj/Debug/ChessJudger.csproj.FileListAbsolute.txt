@@ -1,0 +1,7 @@
+F:\Code\ChessJudger\ChessJudger\bin\Debug\ChessJudger.dll
+F:\Code\ChessJudger\ChessJudger\bin\Debug\ChessJudger.pdb
+F:\Code\ChessJudger\ChessJudger\obj\Debug\ChessJudger.csprojResolveAssemblyReference.cache
+F:\Code\ChessJudger\ChessJudger\obj\Debug\ChessJudger.dll
+F:\Code\ChessJudger\ChessJudger\obj\Debug\ChessJudger.pdb
+F:\Code\ChessJudger\ChessJudger\bin\Debug\Newtonsoft.Json.dll
+F:\Code\ChessJudger\ChessJudger\bin\Debug\Newtonsoft.Json.xml
